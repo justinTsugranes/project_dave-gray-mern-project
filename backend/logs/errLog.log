@@ -1,3 +1,8 @@
 20221219	21:00:32	8a0a294d-97da-48f5-9960-c6020b0ed88a	SyntaxError: Unexpected token / in JSON at position 6	POST	/users	undefined
 20221219	21:04:10	bb7ff07f-ff09-4b98-8300-bd0b8d146ba8	SyntaxError: Unexpected token , in JSON at position 172	PATCH	/users	undefined
 20221219	21:06:35	5da04812-f1cd-499f-ac2e-5552c2508c3c	ReferenceError: boolean is not defined	PATCH	/users	undefined
+20221220	07:08:11	8f0a2269-8557-43b8-85fd-8ef3296b8c48	ReferenceError: boolean is not defined	PATCH	/users	http://localhost:3000
+20221220	07:18:14	6b2af31f-cb36-4d8f-864b-89b01eb3e17a	ReferenceError: boolean is not defined	PATCH	/users	http://localhost:3000
+20221220	07:18:29	68f2009d-4cfd-47d9-a9ec-1bcb53c6ddef	ReferenceError: boolean is not defined	PATCH	/users	http://localhost:3000
+20221220	07:20:29	e5e5dba9-c053-48a1-a9c5-fe329fafc2b0	ReferenceError: boolean is not defined	PATCH	/users	http://localhost:3000
+20221220	07:21:01	9d570227-16e6-46b0-bee3-ee803e5f6e77	ReferenceError: boolean is not defined	PATCH	/users	http://localhost:3000
