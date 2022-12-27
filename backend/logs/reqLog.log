@@ -99,3 +99,6 @@
 20221220	07:28:32	7bf0eaa0-e244-4a68-9c6b-83ef549bfb97	OPTIONS	/notes	http://localhost:3000
 20221220	07:28:32	2af342b7-e22f-454b-ac2d-cb49348f9590	POST	/notes	http://localhost:3000
 20221220	07:28:32	32c34795-1576-44b9-a39b-a52fe18dd3c4	GET	/notes	http://localhost:3000
+20221220	07:29:24	1cdedb58-740b-4065-b98f-2ee4b9095c0b	OPTIONS	/notes	http://localhost:3000
+20221220	07:29:24	106b5bc6-6d02-4d33-ae15-21d25d8e17ba	POST	/notes	http://localhost:3000
+20221220	07:29:24	1a26d624-2165-47cb-8ab4-5360a5ba1a97	GET	/notes	http://localhost:3000
